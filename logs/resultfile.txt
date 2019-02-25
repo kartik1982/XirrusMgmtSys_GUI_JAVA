@@ -1,0 +1,18 @@
+TS_Profile||TC_Profile_test_01||PASS||2019-02-24 22:02:29||2019-02-24 22:02:36
+TS_Profile||TC_Profile_test_02||PASS||2019-02-24 22:02:36||2019-02-24 22:02:41
+TS_Mynetwork||TC_Network_test_01||PASS||2019-02-24 22:02:41||2019-02-24 22:02:46
+TS_Mynetwork||TC_Network_test_02||PASS||2019-02-24 22:02:46||2019-02-24 22:02:50
+TS_Settings||TC_Settings_test_01||PASS||2019-02-24 22:02:51||2019-02-24 22:02:55
+TS_Settings||TC_Settings_test_02||FAIL||2019-02-24 22:02:55||2019-02-24 22:03:00
+TS_Profile (0)||TC_Profile_test_01||PASS||2019-02-24 22:03:00||2019-02-24 22:03:04
+TS_Profile (0)||TC_Profile_test_02||PASS||2019-02-24 22:03:04||2019-02-24 22:03:08
+TS_Mynetwork (0)||TC_Network_test_01||PASS||2019-02-24 22:03:09||2019-02-24 22:03:13
+TS_Mynetwork (0)||TC_Network_test_02||PASS||2019-02-24 22:03:13||2019-02-24 22:03:18
+TS_Settings (0)||TC_Settings_test_01||PASS||2019-02-24 22:03:18||2019-02-24 22:03:22
+TS_Settings (0)||TC_Settings_test_02||FAIL||2019-02-24 22:03:22||2019-02-24 22:03:26
+TS_Profile||TC_Profile_test_01||PASS||2019-02-24 22:06:14||2019-02-24 22:06:20
+TS_Profile||TC_Profile_test_02||PASS||2019-02-24 22:06:20||2019-02-24 22:06:24
+TS_Mynetwork||TC_Network_test_01||PASS||2019-02-24 22:06:25||2019-02-24 22:06:29
+TS_Mynetwork||TC_Network_test_02||PASS||2019-02-24 22:06:29||2019-02-24 22:06:33
+TS_Settings||TC_Settings_test_01||PASS||2019-02-24 22:06:33||2019-02-24 22:06:37
+TS_Settings||TC_Settings_test_02||FAIL||2019-02-24 22:06:37||2019-02-24 22:06:41

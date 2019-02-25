@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" verbose="0" name="Failed suite [TS_Settings (0)]">
+  <listeners>
+    <listener class-name="shared_libraries.listeners"/>
+    <listener class-name="shared_libraries.ExtentReporterNG"/>
+  </listeners>
+  <test thread-count="5" verbose="0" name="TC_Settings_test_02(failed)">
+    <classes>
+      <class name="TS_Settings.TC_Settings_test_02">
+        <methods>
+          <include name="prepareTestbedForTestsuiteExecution"/>
+          <include name="setEnviornmentForTestcaseExecution"/>
+          <include name="cleanupTestbedAfterTestSuiteExecution"/>
+          <include name="cleanupAfterTestcaseExecution"/>
+          <include name="settings_sample_test02"/>
+        </methods>
+      </class> <!-- TS_Settings.TC_Settings_test_02 -->
+    </classes>
+  </test> <!-- TC_Settings_test_02(failed) -->
+</suite> <!-- Failed suite [TS_Settings (0)] -->

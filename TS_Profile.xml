@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="TS_Profile">
+<listeners> 
+	<listener class-name="shared_libraries.listeners"/>
+	<listener class-name="shared_libraries.ExtentReporterNG"/>
+</listeners>
+  <test  name="TC_Profile_test_01">
+    <classes>
+      <class name="TS_Profile.TC_Profile_test_01"/>
+    </classes>
+  </test>
+  <test  name="TC_Profile_test_02">
+    <classes>
+      <class name="TS_Profile.TC_Profile_test_02"/>
+    </classes>
+  </test> <!-- Profile Test cases -->
+</suite> <!-- Profile Test suite -->
